@@ -1,3 +1,6 @@
+// Secure Authentication Module for Operating Systems
+// Developed by: Sri Harinath Reddy && Uma mahesh
+// Section: K24FA
 #include <iostream>
 #include <fstream>
 #include <string>
