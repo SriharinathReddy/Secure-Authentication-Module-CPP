@@ -76,6 +76,7 @@ int findUserIndex(const string &username) {
 }
 
 // --------- Register ----------
+//Handles user registration
 void registerUser() {
     string username, password;
     int roleChoice;
@@ -125,6 +126,7 @@ int generateOTP() {
 }
 
 // --------- Login ----------
+//Handles user login and OTP verification
 void loginUser() {
     string username, password;
     cout << "\n--- Login ---\n";
