@@ -1,4 +1,4 @@
-// Secure Authentication Module for Operating Systems
+// Secure Authentication Module (c++ with OTP)
 // Developed by: Sri Harinath Reddy && Uma mahesh
 // Section: K24FA
 #include <iostream>
