@@ -203,7 +203,6 @@ void modifyResource() {
         logEvent("Access denied (modify) for: " + currentUser.username);
         return;
     }
-
     cout << "Admin modified system resource.\n";
     logEvent("Resource modified by admin: " + currentUser.username);
 }
@@ -244,7 +243,7 @@ int main() {
     int choice;
     while (true) {
         menu();
-        cin >> choice;
+        cin>> choice;
 
         switch (choice) {
         case 1: registerUser(); break;
@@ -258,3 +257,4 @@ int main() {
         }
     }
 }
+//  THE END
