@@ -12,3 +12,9 @@ Fri Nov 28 22:13:44 2025
  : Resource viewed by: Mari
 Fri Nov 28 22:13:49 2025
  : Access denied (modify) for: Mari
+Fri Nov 28 23:08:37 2025
+ : New user registered: Mahesh
+Fri Nov 28 23:09:03 2025
+ : Login successful: Mahesh
+Fri Nov 28 23:09:09 2025
+ : User logged out: Mahesh
